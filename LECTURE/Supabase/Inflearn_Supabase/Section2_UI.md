@@ -5,9 +5,15 @@
 <br/>
 <br/>
 
-![search_icon](../Inflearn_Supabase/image/font_awesome.png){: width="70%" height="70%"}
+<p align="center">
+  <img src="../Inflearn_Supabase/image/font_awesome.png" width="70%" height="70%"/>
+  <br/>
+  Input 칸 오른쪽에 있는 아이콘은 font-awesome 페이지에서 아이콘을 찾아 코드를 기입하면 된다.
+  <br/>
+  사용가능한 아이콘은 
+  <a href="https://fontawesome.com" target="_blank">링크</a>
+  에서 찾아볼 것
+</p>
    
 <br/>
 <br/>
-   
-- Input 칸 오른쪽에 있는 아이콘은 font-awesome 페이지에서 아이콘을 찾아 코드를 기입하면 된다.
